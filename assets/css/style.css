@@ -1,6 +1,7 @@
 :root{
-  --primary-color : #FFB703;
+  --primary-color : #4169e1;
   --secondary-color : #000000; 
+
 }
 
 
@@ -42,7 +43,7 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #fff;
+  background: #4169e1;
 }
 
 #preloader:before {
